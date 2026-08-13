@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+seaborn
+joblib
+tqdm
+scikit-learn
+scipy
+nltk
+vaderSentiment
+transformers
+torch
+streamlit
+plotly
+streamlit-option-menu
+ipykernel
