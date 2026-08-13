@@ -1,7 +1,5 @@
 # fake-review-detection
-Final year project: Fake Review Detection using Machine Learning with Hybrid Text and Metadata Features
-
-TITLE: FAKE REVIEW DETECTION USING MACHINE LEARNING WITH HYBRID TEXT AND METADATA FEATURES
+FINAL YEAR PROJECT: FAKE REVIEW DETECTION USING MACHINE LEARNING WITH HYBRID TEXT AND METADATA FEATURES
 
 Python 3.10 is recommended.
 
