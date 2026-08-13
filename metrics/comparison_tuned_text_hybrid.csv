@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1 Score
+SVM [Text-Only Tuned],0.9106,0.9106,0.9106,0.9106
+SVM [Hybrid Tuned],0.9362,0.9363,0.9362,0.9362
+Random Forest [Text-Only Tuned],0.8662,0.8664,0.8662,0.8662
+Random Forest [Hybrid Tuned],0.9427,0.9428,0.9427,0.9427
+Logistic Regression [Text-Only Tuned],0.9106,0.9106,0.9106,0.9106
+Logistic Regression [Hybrid Tuned],0.9357,0.9357,0.9357,0.9357
