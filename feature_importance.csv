@@ -1,0 +1,8 @@
+Feature,Importance
+perplexity,0.49675374506375597
+review_length,0.18436551205648585
+lexical_diversity,0.10282054406881125
+uppercase_ratio,0.0665804150590563
+sentiment_score,0.05921663549704435
+adj_frequency,0.05374168333463667
+rating_deviation,0.03652146492020965
